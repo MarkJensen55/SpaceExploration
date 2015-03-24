@@ -1,0 +1,5 @@
+C:\Users\Mark\Documents\Visual Studio 2013\Projects\SpaceExploration\SpaceExploration\bin\Debug\SpaceExploration.exe.config
+C:\Users\Mark\Documents\Visual Studio 2013\Projects\SpaceExploration\SpaceExploration\bin\Debug\SpaceExploration.exe
+C:\Users\Mark\Documents\Visual Studio 2013\Projects\SpaceExploration\SpaceExploration\bin\Debug\SpaceExploration.pdb
+C:\Users\Mark\Documents\Visual Studio 2013\Projects\SpaceExploration\SpaceExploration\obj\Debug\SpaceExploration.exe
+C:\Users\Mark\Documents\Visual Studio 2013\Projects\SpaceExploration\SpaceExploration\obj\Debug\SpaceExploration.pdb
