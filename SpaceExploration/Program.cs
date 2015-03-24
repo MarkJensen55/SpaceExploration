@@ -18,17 +18,17 @@ namespace SpaceExploration
             float currentSpeed = 10000.0f;
 
             // 2 hours is 8 burn/coast intervals
-            for (int j = 0; j < 7; j++)
+            for (int j = 0; j < 8; j++)
             {
 
                 // 5 minutes is 10 30 second increments
-                for (int i = 0; i < 9; i++)
+                for (int i = 0; i < 10; i++)
                 {
                     currentSpeed = currentSpeed * 1.05f;
                 }
 
                 // answer the first question on the first iteration
-                if (j == 1)
+                if (j == 0)
                 {
                     Console.WriteLine("Velocity after first burn is: " + currentSpeed + " MPH"); 
                 }
